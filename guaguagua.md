@@ -1,4 +1,5 @@
 # Lab Report 1 - Remote Access and FileSystem
+this page shows the results of giving a terminal different commands with different circumstances. 
 ## cd
 No arguments: 
 ```
