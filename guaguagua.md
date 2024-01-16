@@ -1,5 +1,5 @@
-# Heading 1 Lab Report 1 - Remote Access and FileSystem
-## Heading 2 cd
+# Lab Report 1 - Remote Access and FileSystem
+## cd
 No arguments: 
 ```
 [user@sahara ~]$ cd
