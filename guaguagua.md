@@ -27,4 +27,33 @@ bash: cd: README: Not a directory
 ```
 With a file as an argument the cd command will tell you that the file is not a directory. 
 This is because the cd command only changes directories, it does not open files.
-this output is NOT an error.
+This output is NOT an error.
+# Command ls (list):
+## Example with no arguments:
+```
+[user@sahara ~]$ ls
+lecture1
+[user@sahara ~]$
+```
+With no arguments the ls command lists the current files and directories in the current directory.
+Lecture1 is the output because the ls command lists the directories/files within the currently selected directory.
+This output is NOT an error.
+## Example with a path to a directory as an argument:
+```
+[user@sahara ~]$ ls lecture1
+Hello.class  Hello.java  messages
+[user@sahara ~]$
+```
+With a directory (lecture1) as the argument the output shows the 3 different files and directories in the lecture1 directory.
+This output is a result of listing the contents of the selected directory.
+This output is NOT an error.
+## Example with a path to a file as an argument:
+```
+[user@sahara ~]$ cd lecture1
+[user@sahara ~/lecture1]$ ls Hello.class
+Hello.class
+[user@sahara ~/lecture1]$
+```
+With a file as the argument the output shows the name of the file. 
+This is because the ls command has nothing to list within the file and therefore only repeats the file name.
+This output is NOT an error.
