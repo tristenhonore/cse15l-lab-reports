@@ -11,4 +11,4 @@ Vamp, vamp\
 Vamp, vamp\
 Vamp" - Jordan Terrell Carter AKA Playboi Carti\
 # Lab 1 Report
-[https://github.com/tristenhonore/cse15l-lab-reports/blob/main/guaguagua.md]
+"https://github.com/tristenhonore/cse15l-lab-reports/blob/main/guaguagua.md"
