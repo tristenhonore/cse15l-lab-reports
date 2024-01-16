@@ -1,6 +1,6 @@
 # Lab Report 1 - Remote Access and FileSystem
 this page shows the results of giving a terminal different commands with different circumstances. In these cases a directory named "Lecture1" exists with multiple directories and files within these directories. 
-# cd
+# Command cd:
 ## Example with no arguments: 
 ```
 [user@sahara ~]$ cd
