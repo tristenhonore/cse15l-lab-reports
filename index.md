@@ -1,5 +1,4 @@
-/ "Vamp anthem, vamp anthem
-/ Vamp anthem, vamp anthem, yeah
+ "Vamp anthem, vamp anthem   Vamp anthem, vamp anthem, yeah
 / Vamp anthem, vamp anthem, yeah
 / Vamp anthem, vamp anthem, yeah
 / Vamp, uh, vamp, uh
