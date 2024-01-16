@@ -57,3 +57,10 @@ Hello.class
 With a file as the argument the output shows the name of the file. 
 This is because the ls command has nothing to list within the file and therefore only repeats the file name.
 This output is NOT an error.
+# Command cat (concatenate)
+## Example with no arguments:
+```
+[user@sahara ~]$ cat
+
+
+```
