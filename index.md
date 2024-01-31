@@ -10,5 +10,7 @@ Vamp, vamp\
 Vamp, vamp\
 Vamp, vamp\
 Vamp" - Jordan Terrell Carter AKA Playboi Carti\
-# Lab 1 Report
+## Lab 1 Report
 [lab 1 report](guaguagua.md)
+## Lab 2 Report
+[lab 2 report](labReport2.md)
