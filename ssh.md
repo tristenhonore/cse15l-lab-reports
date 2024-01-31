@@ -3,7 +3,7 @@ using the command `ssh-keygen` when signed into the ieng6 server we can create a
 ![image](lalalalala)
 \
 in this image you can see that both the public and private key are both stored in the file path `/home/linux/ieng6/oce/28/thonore/.ssh`\
-\
+
 ---
 \
 \
