@@ -1,3 +1,3 @@
-# Lab 2 report
+# Lab Report 2 - Servers and SSH Keys
 ## Chat server creation
 
