@@ -19,11 +19,19 @@ the following code is a method that, in its current state, does not work as inte
 
 ```
 ## Diagnosing
-**Failure inducing input:** 
+**Failure Inducing Input:** 
 ```
   @Test
   public void testAverageWithoutLowest() {
     double[] input1 = {3.0, 1.0, 5.0, 6.0};
     assertEquals(14/3, ArrayExamples.averageWithoutLowest(input1), 0);
+  }
+```
+**Non-failure Inducing Input:**
+```
+  @Test
+  public void testAverageWithoutLowest() {
+    double[] input1 = {3.0, 1.0, 3.0, 6.0};
+    assertEquals(12/3, ArrayExamples.averageWithoutLowest(input1), 0);
   }
 ```
