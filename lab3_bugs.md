@@ -1,5 +1,5 @@
 # Debugging
-the following code is a method that, in its current state, does not work as intended.:
+the following code is a method named `averageWithoutLowest`:
 ```
   // Averages the numbers in the array (takes the mean), but leaves out the
   // lowest number when calculating. Returns 0 if there are no elements or just
@@ -17,6 +17,9 @@ the following code is a method that, in its current state, does not work as inte
     return sum / (arr.length - 1);
   }
 ```
+This code compiles and can be run with an input of an array. At first glance you may or may not see anything wrong with it, but you should always test 
+for possible failures within your code. 
+
 ---
 ## [Diagnosing](lab3_bugs_2ndpage.md)
 we can see the code and its purpose, now lets attempt to run it with different inputs. 
