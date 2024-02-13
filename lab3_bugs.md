@@ -18,6 +18,6 @@ the following code is a method that, in its current state, does not work as inte
   }
 ```
 ---
-## [Diagnosing]()
+## [Diagnosing](lab3_bugs_2ndpage.md)
 we can see the code and its purpose, now lets attempt to run it with different inputs. 
 
