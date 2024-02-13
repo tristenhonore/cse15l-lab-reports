@@ -1,5 +1,5 @@
 # Symptoms
-lets look at whats wrong with the code based on the inputs.
+Using JUnit tests lets look at the outputs of the code and use it to determine which part of the method is not working as intended.
 
 ---
 ![Image](lab3_bugs_1.png)	\
