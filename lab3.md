@@ -7,3 +7,5 @@ See the process of diagnosing, testing, and fixing a bug.
 
 [## Information and Utilization of `less`]() \
 See information regarding the application of the `less` command as well as examples of utilization.
+---
+[Back to Home Page]()
