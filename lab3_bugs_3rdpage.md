@@ -20,4 +20,4 @@ number for the sum and dividing, at least in this case, by the right number. Bas
 this to the previous test in order to determine the issue.
 
 ---
-[Based on this information lets look at the part of the method relating to the division and see if anything is wrong.](lab3_bugs_4thpage.md)
+Using this information lets look at [the part of the method relating to the division to see whats wrong.](lab3_bugs_4thpage.md)
