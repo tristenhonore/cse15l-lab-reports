@@ -1,7 +1,7 @@
 # less -N
 the `-N` option for `less` adds line numbers to the output, making it easier to keep track when scrolling through 
 the output in the terminal. 
-example:
+example:  
 ![a](lab3_less_-N1.png)
 Here we see that the output is the same as with no options except that you can see there are line numbers on the left.
 This image is taken just after the output is given.
