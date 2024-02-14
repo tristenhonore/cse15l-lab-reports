@@ -5,5 +5,5 @@ The following showcase of commands will be done on a directory called `technical
 from https://anc.org/data/oanc/download/, a free and open corpus of English text samples.  
 
 ---
-Here is an example of the `less` command used without any command-line options:
+Here is an example of the `less` command used without any command-line options:  
 ![sa](lab3_less_mt.png)
