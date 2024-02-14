@@ -8,7 +8,7 @@ from https://anc.org/data/oanc/download/, a free and open corpus of English text
 ---
 Here is an example of the `less` command used without any command-line options. The command run is `$ less technical/government/Alcohol_Problems/Session2-PDF.txt`:  
 \
-![sa](lab3_less_mt.png)
+![sa](lab3_less.png)
 
 ---
 The following are examples of command-line options and explanations of what they do.  
