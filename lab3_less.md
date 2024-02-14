@@ -14,5 +14,5 @@ Here is an example of the `less` command used without any command-line options:
 The following are examples of command-line options and explanations of what they do.  
 (Each option comes from asking ChatGPT "what are some command line options for the less command in java")
 
-[`Less -N`](lab3_less_-N.md)  
-[]()
+[`less -N`](lab3_less_-N.md)  
+[`less -S](lab3_less_-S.md)
