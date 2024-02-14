@@ -29,3 +29,5 @@ And here is the code fixed to work as intended:
     }
     return sum / (divisor);
 ```
+the issue with the code was that it was dividing by `arr.length - 1` instead of the number of numbers you are averaging. 
+Fixing this requires you create a number, in this case `Divisor` that tracks how many numbers you are actually using for the average.
