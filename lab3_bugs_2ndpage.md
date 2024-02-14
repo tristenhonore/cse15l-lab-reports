@@ -21,5 +21,5 @@ the sum of `5.0` and `6.0` (11.0) divided by 2. However the program returns the 
 ```
 This test shows the code working as intended. The code recognizes that `1.0` is the lowest number and only adds `3.0`, `3.0`, and `6.0` then divides by 3.
 
-## [Symptoms]()
+## [Symptoms](lab3_bugs_3rdpage.md)
 As we can see above the program appears to work in some cases but not all, lets look further into the code and see whats wrong.
