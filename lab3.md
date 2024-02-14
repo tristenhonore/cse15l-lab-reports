@@ -3,11 +3,11 @@ In this lab we focus on testing for and fixing bugs as well as creating scripts 
 better access different files in the terminal. In this report you will see the process of fixing a buggy program as well as the utilization of one of the learned commands.
 
 ---
-## [De-bugging Process]() 
+## [Debugging Process](lab3_bugs.md) 
 See the process of diagnosing, testing, and fixing a bug.
 
-## [Information and Utilization of `less`]() 
+## [Information and Utilization of `less`](Lab3_less.md) 
 See information regarding the application of the `less` command as well as examples of utilization.
 
 ---
-[Back to Home Page]()
+[Back to Home Page](index.md)
