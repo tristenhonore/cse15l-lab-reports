@@ -1,6 +1,7 @@
 # Information and Utilization of less
 The `less` command is used to view Java source code files, log files, or any other text-based files in the terminal and 
 is best used when there are a lot of files to be viewed.  
+(info recieved by ChatGPT with the prompt "what does the less command do in java")
 The following showcase of commands will be done on a directory called `technical/` which is a sample of writing in English 
 from https://anc.org/data/oanc/download/, a free and open corpus of English text samples.  
 
@@ -11,5 +12,7 @@ Here is an example of the `less` command used without any command-line options:
 
 ---
 The following are examples of command-line options and explanations of what they do.  
+(Each option comes from asking ChatGPT "what are some command line options for the less command in java")
+
 [`Less -N`](lab3_less_-N.md)  
 []()
