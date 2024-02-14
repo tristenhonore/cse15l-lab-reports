@@ -14,3 +14,5 @@ Vamp" - Jordan Terrell Carter AKA Playboi Carti\
 [lab 1 report](guaguagua.md)
 ## Lab 2 Report - Servers and SSH Keys
 [lab 2 report](labReport2.md)
+## Lab 3 Report - Bugs and Commands
+[Lab 3 Report](lab3.md)
