@@ -17,4 +17,4 @@ The following are examples of command-line options and explanations of what they
 (Each option comes from asking ChatGPT "what are some command line options for the less command in java")
 
 [`less -N`](lab3_less_-N.md)  
-[`less -S`](lab3_less_-S.md)
+[`+<number>`](lab3_less_+.md)
