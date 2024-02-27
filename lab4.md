@@ -5,8 +5,10 @@ utilization of Vimto change code inside of a file as well as key-specific instru
 ---
 ![](lab4_firstStep.png)  
 
-We begin with an empty workspace an run the command `git clone https://github.com/ucsd-cse15l-s23/lab7` in the terminal.  
+We begin with an empty workspace and run the command `git clone https://github.com/ucsd-cse15l-s23/lab7` in the terminal.  
 This will set us up for the demonstration with the files we need.  
+  
 [Next Page](lab4_2ndPg.md)  
-
-  [Back to Lab Reports]()
+  
+  
+[Back to Lab Reports](index.md)
