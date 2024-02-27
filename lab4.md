@@ -11,6 +11,6 @@ In this case im using my login which is thonore as seen in the screenshot.
 This logs us into the server where we will be doing the rest of this demonstration. 
   
 [Next Page](lab4_2ndPg.md)  
-  
-  
+  \
+  \
 [Back to Lab Reports](index.md)
