@@ -5,6 +5,7 @@ utilization of Vimto change code inside of a file as well as key-specific instru
 ---
 ## Step 1: logging into `ieng6`
 We begin with an empty workspace and run the command `$ ssh [USER]@ieng6-201.ucsd.edu` in the terminal.  
+\
 ![](lab4_firstStep.png)  
 
 In this case im using my login which is thonore as seen in the screenshot.  
