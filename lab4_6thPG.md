@@ -5,7 +5,7 @@ Finally, we are going to run these three commands in order: `git add .` , `git c
 `git push origin main` will push the committed change into the actual github site.
 \
 ![](lab4_6thpg.png)  
-\ 
+  
 here are the commands being run in the terminal.  
 ![](lab4_6thpg2.png)  
 \
