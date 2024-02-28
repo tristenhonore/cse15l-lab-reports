@@ -11,9 +11,8 @@ here are the commands being run in the terminal.
 
 Here is the change visible in github.  
 We have now demonstrated how Vim can be used in order to change code and other files while remotely accessing a server. 
-\
-\
-
+  
+  
 [Previous Page](lab4_6thPG.md)  
 \
 \
