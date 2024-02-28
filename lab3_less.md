@@ -19,4 +19,4 @@ The following are examples of command-line options and explanations of what they
  [`less -N`](lab3_less_-N.md) See line numbers  
  [`less +<number>`](lab3_less_+.md) Start at specified line number  
  [`less /<patter>`](lab3_less_pattern.md) Look for specified pattern  
- [less -i](lab3_less_-i.md) Case-insensitive searching  
+ [`less -i`](lab3_less_-i.md) Case-insensitive searching  
