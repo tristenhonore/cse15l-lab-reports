@@ -6,7 +6,7 @@ better access different files in the terminal. In this report you will see the p
 ## [Debugging Process](lab3_bugs.md) 
 See the process of diagnosing, testing, and fixing a bug.
 
-## [Information and Utilization of `less`](Lab3_less.md) 
+## [Information and Utilization of `less`](lab3_less.md) 
 See information regarding the application of the `less` command as well as examples of utilization.
 
 ---
