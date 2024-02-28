@@ -7,7 +7,6 @@ Finally, we are going to run these three commands in order: `git add .` , `git c
 ![](lab4_6thpg.png)  
 \ 
 here are the commands being run in the terminal.  
-\
 ![](lab4_6thpg2.png)  
 \
 Here is the change visible in github.  
