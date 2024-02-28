@@ -8,10 +8,12 @@ Finally, we are going to run these three commands in order: `git add .` , `git c
   
 here are the commands being run in the terminal.  
 ![](lab4_6thpg2.png)  
-\
+
 Here is the change visible in github.  
 We have now demonstrated how Vim can be used in order to change code and other files while remotely accessing a server. 
 \
+\
+
 [Previous Page](lab4_6thPG.md)  
 \
 \
