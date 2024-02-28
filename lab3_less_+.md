@@ -1,7 +1,7 @@
 # `less +<number>`
-the `+<number>` option makes it so that the output will 
+the `+<number>` option makes it so that the output will start displaying the document at the line of the input number. This is best used alongside -N.
 ##  Example:  
-![a](lab3_less_-N1.png)  
+![a](lab3_less_+1.png)  
 Here we see that the output is the same as with no options except that you can see there are line numbers on the left.  
 This image is taken just after the output is given.  
 
