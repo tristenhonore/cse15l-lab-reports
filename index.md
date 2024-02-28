@@ -17,4 +17,4 @@ Vamp" - Jordan Terrell Carter AKA Playboi Carti\
 ## Lab 3 Report - Bugs and Commands
 [Lab 3 Report](lab3.md)
 ## Lab 4 Report - Vim
-[Lab 3 Report](lab4.md)
+[Lab 4 Report](lab4.md)
