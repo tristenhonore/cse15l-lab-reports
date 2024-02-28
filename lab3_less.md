@@ -18,3 +18,4 @@ The following are examples of command-line options and explanations of what they
 
 ## [`less -N`](lab3_less_-N.md)  
 ## [`less +<number>`](lab3_less_+.md)
+## [`less /<patter>`](lab3_pattern.md)
