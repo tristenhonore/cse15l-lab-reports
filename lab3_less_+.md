@@ -1,5 +1,6 @@
 # `less +<number>`
-the `+<number>` option makes it so that the output will start displaying the document at the line of the input number. This is best used alongside -N.
+the `+<number>` option makes it so that the output will start displaying the document at the line of the input number.  
+This is best used alongside -N.
 ##  Example:  
 ![a](lab3_less_+1.png)  
 The command run was `$ less +135 technical/government/Alcohol_Problems/Session2-PDF.txt`
