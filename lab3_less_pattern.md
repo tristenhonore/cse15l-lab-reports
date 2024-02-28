@@ -1,4 +1,4 @@
-# `less /<pattern>
+# `less /<pattern>`
 The `/<pattern>` command will highlight any occurence of the pattern you type. This is done after the `less` command is run and you are looking through the file.
 ##  Example:  
 ![a](lab3_less_pattern1.png)  
