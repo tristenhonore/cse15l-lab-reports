@@ -4,6 +4,6 @@ of a real event and none of the names are references to any real people. In addi
 ---
 ## [Debugging Conversation](lab5_dbg.md)  
 Made up scenario between a student having issues with their chat server and how the TA helps the student resolve their issue.  
-\
+  
 ## [Reflection on the Course](lab5_reflection.md)  
 Reflecting on what I learned from the class. 
