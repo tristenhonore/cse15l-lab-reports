@@ -1,6 +1,6 @@
 # Step 6 Committ and Push Change
 Finally, we are going to run these three commands in order: `git add .` , `git commmit -m yippee` , `git push origin main` .  
-`git add .` will set us up for commiting changes in the directory.  
+`git add .` will put our changes into the staging area where they can then be committed to github. 
 `git commit -m yippe` will commit the changes and "yippee" will be the commit message that you will be able to see in github.  
 `git push origin main` will push the committed change into the actual github site.
 \
